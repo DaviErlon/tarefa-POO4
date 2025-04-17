@@ -1,0 +1,18 @@
+4.  a) Herança: 
+        Com base na questão anterior, a herança pode ser vista na classe CaixaFragil, que herda
+        os atributos e métodos da classe Caixa. Dessa forma, podemos dizer que toda CaixaFragil
+        é uma Caixa, mas nem toda Caixa é uma CaixaFragil, vemos isso quando agrupamos essas classes
+        em arrays, listas ou, como foi usado, em uma pilha como se fossem de mesma tipagem.
+      
+       Encapsulamento:
+        O Encapsulamento pode ser visualizado claramente nos modificadores de acesso dos atributos 
+        e métodos das classes. public, protected, private e default (sem nada), são palavras que ditam
+        o comportamento acerca da visibilidade de atributos e métodos nas instancias de classes
+        ou subclasses, dentro ou fora do pacote, e na visibilidade das próprias classes. Com isso, o 
+        código pode ser melhor manipulado, além de mais organizado e legível, com métodos para acessar 
+        atributos indiretamente, etc.
+
+    b) Polimorfismo:
+        O polimorfismo na orientação a objeto é o pilar que mostra como superclasses e subclasses se comportam,
+        uma subclasse tem a forma de suas superclasses, e pode reescrever e/ou sobrecarregar seus métodos, assim,
+        dando origem ao nome do conceito pois um mesmo objeto pode ter várias (poli) formas (morfismo);      
